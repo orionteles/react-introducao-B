@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, Container } from 'react-bootstrap';
 import Cabecalho from "../components/Cabecalho";
 import Pagina from '../components/Pagina';
